@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>博客内容</title>
+    <style type="text/css">
+        #a{
+             margin : 0px 20px 0px 20px;
+        }
+        a{text-decoration:none;}
+    </style>
+</head>
+<body>
+<div id="a">
+<div >
+    <h1 style="font-size: 40px;color: aqua">{{ curr_a.title }}</h1>
+</div>
+<div >
+    {% for section in section_l %}
+    <p>{{ section }}</p>
+    {% endfor %}
+</div>
+</div>
+<div align="center">
+    <nav aria-label="...">
+  <ul class="pager">
+    <a href="/index/show/{{ pre_ar.article_id }}">上一篇:{{ pre_ar.title }}</a>
+      &nbsp;&nbsp;
+    <a href="/index/show/{{ ne_ar.article_id }}">下一篇:{{ ne_ar.title }}</a>
+  </ul>
+</nav>
+</div>
+
+</body>
+</html>

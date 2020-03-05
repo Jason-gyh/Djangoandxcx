@@ -1,0 +1,6 @@
+<!--pages/longin/longin.wxml-->
+<text class="userinfo">用户页面</text>
+<button bindtap="getCookie">获取用户Cookie</button>
+<button bindtap="sendCookie">上传用户Cookie</button>
+<button bindtap="authorize">用户登录认证</button>
+<button bindtap="logout" >注销登录</button>

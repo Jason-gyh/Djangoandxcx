@@ -1,0 +1,12 @@
+/* pages/longin/longin.wxss */
+button{
+  width: 80%;
+  margin-top: 20rpx;
+  background-color: rgb(38, 221, 31);
+  color: white;
+}
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

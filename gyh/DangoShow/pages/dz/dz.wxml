@@ -1,0 +1,8 @@
+<!--pages/dz/dz.wxml-->
+<text>精品段子:\n</text>
+<view wx:for='{{content}}'>
+<text class="nr">{{index}} : {{item.content}}</text>
+<view>
+  <text>{{text0}}</text>
+</view>
+</view>

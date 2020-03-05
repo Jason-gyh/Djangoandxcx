@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>辉哥的微博</title>
+    <style type="text/css">
+        #a{
+            margin : 10px 0px 10px 0px;
+        }
+        a{text-decoration:none;}
+    </style>
+</head>
+<body id="tou">
+<div align="center"><h1 style="font-size: 40px;color: aqua">我的博客</h1></div>
+<div >
+    {% for article in articles %}
+    博客标题:<h1><a href="show/{{ article.article_id }}">{{ article.title }}</a></h1>
+    文章摘要:<h2>{{ article.brief_content }}</h2>
+    {% endfor %}
+<a href="#tou"><div style="font-size: 20px;">返回开头</div></a>
+</div>
+</body>
+</html>

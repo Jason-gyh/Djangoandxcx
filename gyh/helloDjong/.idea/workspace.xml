@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85c06851-701f-4e96-9bd7-39f192085fca" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/helloDjong$models.coverage" NAME="models Coverage Results" MODIFIED="1581235044800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app2" />
+    <SUITE FILE_PATH="coverage/helloDjong$tests.coverage" NAME="tests Coverage Results" MODIFIED="1582020609969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app2" />
+    <SUITE FILE_PATH="coverage/helloDjong$tests__1_.coverage" NAME="tests (1) Coverage Results" MODIFIED="1583290548124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apptupian" />
+    <SUITE FILE_PATH="coverage/helloDjong$views.coverage" NAME="views Coverage Results" MODIFIED="1581230097262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/helloDjong" />
+    <SUITE FILE_PATH="coverage/helloDjong$models__1_.coverage" NAME="models (1) Coverage Results" MODIFIED="1582700075823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apptupian" />
+    <SUITE FILE_PATH="coverage/helloDjong$manage.coverage" NAME="manage Coverage Results" MODIFIED="1581216741713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/helloDjong$0001_initial.coverage" NAME="0001_initial Coverage Results" MODIFIED="1582703063475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apptupian/migrations" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/helloDjong/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/apptupian/tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apptupian/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>myfirstproj</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/helloDjong/views.py" />
+        <option value="$PROJECT_DIR$/app2/models.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/877bb82f-99ae-423e-9d2c-56af21e082fa/console.sql" />
+        <option value="$PROJECT_DIR$/app1/admin.py" />
+        <option value="$PROJECT_DIR$/app1/models.py" />
+        <option value="$PROJECT_DIR$/app1/urls.py" />
+        <option value="$PROJECT_DIR$/app1/views.py" />
+        <option value="$PROJECT_DIR$/app1/templates/detail.html" />
+        <option value="$PROJECT_DIR$/app1/templates/show.html" />
+        <option value="$PROJECT_DIR$/app2/v1_0.py" />
+        <option value="$PROJECT_DIR$/app2/tests.py" />
+        <option value="$PROJECT_DIR$/app3/url.py" />
+        <option value="$PROJECT_DIR$/app3/urls.py" />
+        <option value="$PROJECT_DIR$/app3/views.py" />
+        <option value="$PROJECT_DIR$/app2/templates/upfile.html" />
+        <option value="$PROJECT_DIR$/app2/views.py" />
+        <option value="$PROJECT_DIR$/helloDjong/urls.py" />
+        <option value="$PROJECT_DIR$/utils/responseutil.py" />
+        <option value="$PROJECT_DIR$/apptupian/templates/upfile.html" />
+        <option value="$PROJECT_DIR$/app2/my_app.yaml" />
+        <option value="$PROJECT_DIR$/app2/urls.py" />
+        <option value="$PROJECT_DIR$/apptupian/urls.py" />
+        <option value="$PROJECT_DIR$/helloDjong/secret_settings.py" />
+        <option value="$PROJECT_DIR$/apptupian/migrations/0001_initial.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/25ebdec2-5ba9-4790-a05d-957158c58115/console.sql" />
+        <option value="$PROJECT_DIR$/apptupian/views.py" />
+        <option value="$PROJECT_DIR$/helloDjong/settings.py" />
+        <option value="$PROJECT_DIR$/apptupian/models.py" />
+        <option value="$PROJECT_DIR$/apptupian/tests.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1077" />
+    <option name="width" value="853" />
+    <option name="height" value="1025" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="helloDjong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helloDjong" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="helloDjong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helloDjong" type="462c0819:PsiDirectoryNode" />
+              <item name="apptupian" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="helloDjong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helloDjong" type="462c0819:PsiDirectoryNode" />
+              <item name="helloDjong" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="azure&#10;redshift&#10;cassandra&#10;sqlite" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MyDjangos\helloDjong\static" />
+      <recent name="D:\MyDjangos\helloDjong\static\images" />
+      <recent name="D:\MyDjangos\helloDjong\app1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyDjangos\helloDjong\utils" />
+      <recent name="D:\MyDjangos\helloDjong\app2\image" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.tests (1)">
+    <configuration name="upfile.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/helloDjong/apptupian/templates/upfile.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="upfile.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/helloDjong/app2/templates/upfile.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="0001_initial" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="helloDjong" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/apptupian/migrations" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/apptupian/migrations/0001_initial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="models (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="helloDjong" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/apptupian" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/apptupian/models.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="helloDjong" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/apptupian" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/apptupian/tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="helloDjong" type="Python.DjangoServer" factoryName="Django server">
+      <module name="helloDjong" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tests (1)" />
+        <item itemvalue="Python.0001_initial" />
+        <item itemvalue="Python.models (1)" />
+        <item itemvalue="JavaScript Debug.upfile.html (1)" />
+        <item itemvalue="JavaScript Debug.upfile.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85c06851-701f-4e96-9bd7-39f192085fca" name="Default Changelist" comment="" />
+      <created>1581215039286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581215039286</updated>
+      <workItem from="1581215040847" duration="1610000" />
+      <workItem from="1581216725094" duration="8471000" />
+      <workItem from="1581237787512" duration="49000" />
+      <workItem from="1581296590974" duration="12403000" />
+      <workItem from="1581325911430" duration="9809000" />
+      <workItem from="1581382940393" duration="4178000" />
+      <workItem from="1581920488177" duration="4354000" />
+      <workItem from="1581988229665" duration="3606000" />
+      <workItem from="1581996784532" duration="11474000" />
+      <workItem from="1582074020303" duration="9946000" />
+      <workItem from="1582160421427" duration="7968000" />
+      <workItem from="1582195413139" duration="2513000" />
+      <workItem from="1582198039064" duration="1478000" />
+      <workItem from="1582248036925" duration="8238000" />
+      <workItem from="1582276478404" duration="6918000" />
+      <workItem from="1582506385142" duration="3155000" />
+      <workItem from="1582592362112" duration="6511000" />
+      <workItem from="1582678920328" duration="15811000" />
+      <workItem from="1582699999005" duration="989000" />
+      <workItem from="1582701029375" duration="1277000" />
+      <workItem from="1582702364602" duration="3056000" />
+      <workItem from="1582705457454" duration="2258000" />
+      <workItem from="1582708175662" duration="615000" />
+      <workItem from="1582765653528" duration="181000" />
+      <workItem from="1582853212331" duration="643000" />
+      <workItem from="1583135104135" duration="1167000" />
+      <workItem from="1583141514475" duration="72000" />
+      <workItem from="1583198835840" duration="5273000" />
+      <workItem from="1583215116922" duration="4473000" />
+      <workItem from="1583284370434" duration="4964000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="143460000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="862" y="0" width="682" height="820" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.31848186" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32952926" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33091438" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.31930333" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3281471" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32838285" />
+      <window_info anchor="right" id="Database" order="4" weight="0.49669966" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35643566" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32952926" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3281471" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.31930333" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3281471" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="4" weight="0.49669966" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="das://6b823254-82dc-4306-9c5b-8487883244b5/schema/main/table/sqlite_master" />
+    <entry file="das://6b823254-82dc-4306-9c5b-8487883244b5/schema/main/table/sqlite_sequence" />
+    <entry file="das://6b823254-82dc-4306-9c5b-8487883244b5/schema/main/table/app1_article" />
+    <entry file="das://6b823254-82dc-4306-9c5b-8487883244b5/schema/main/table/auth_group" />
+    <entry file="das://6b823254-82dc-4306-9c5b-8487883244b5/schema/main/table/auth_user" />
+    <entry file="das://6b823254-82dc-4306-9c5b-8487883244b5/schema/main/table/auth_permission.sql" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/501fa005-22ad-40b8-8f82-ad6078117806/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://b42033a5-3369-44b1-a7b0-92eb08723a30/collation/RTRIM" />
+    <entry file="das://b42033a5-3369-44b1-a7b0-92eb08723a30/collation/NOCASE" />
+    <entry file="das://b42033a5-3369-44b1-a7b0-92eb08723a30/collation/BINARY" />
+    <entry file="das://b42033a5-3369-44b1-a7b0-92eb08723a30/schema/main/table/app1_article" />
+    <entry file="das://b42033a5-3369-44b1-a7b0-92eb08723a30/schema/main/table/sqlite_sequence" />
+    <entry file="das://b42033a5-3369-44b1-a7b0-92eb08723a30/schema/main/table/sqlite_master" />
+    <entry file="das://b42033a5-3369-44b1-a7b0-92eb08723a30/schema/main/table/auth_group" />
+    <entry file="das://b42033a5-3369-44b1-a7b0-92eb08723a30/schema/main/table/auth_group_permissions" />
+    <entry file="das://b42033a5-3369-44b1-a7b0-92eb08723a30/schema/main/table/auth_permission" />
+    <entry file="das://b42033a5-3369-44b1-a7b0-92eb08723a30/schema/main/table/auth_user" />
+    <entry file="das://b42033a5-3369-44b1-a7b0-92eb08723a30/schema/main/table/auth_user_groups" />
+    <entry file="das://b42033a5-3369-44b1-a7b0-92eb08723a30/schema/main/table/auth_user_user_permissions" />
+    <entry file="das://b42033a5-3369-44b1-a7b0-92eb08723a30/schema/main/table/django_admin_log" />
+    <entry file="das://b42033a5-3369-44b1-a7b0-92eb08723a30/schema/main/table/django_content_type" />
+    <entry file="das://b42033a5-3369-44b1-a7b0-92eb08723a30/schema/main/table/django_migrations" />
+    <entry file="das://b42033a5-3369-44b1-a7b0-92eb08723a30/schema/main/table/django_session" />
+    <entry file="das://8a5011f3-8a23-4855-89aa-50ecfc764827/schema/main/table/auth_user_groups" />
+    <entry file="file://$PROJECT_DIR$/app1/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/25ebdec2-5ba9-4790-a05d-957158c58115/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/25ebdec2-5ba9-4790-a05d-957158c58115/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apptupian/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="83" selection-start-line="83" selection-end-line="111" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app1/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-626">
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apptupian/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app2/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://25ebdec2-5ba9-4790-a05d-957158c58115/schema/main/table/sqlite_sequence">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://25ebdec2-5ba9-4790-a05d-957158c58115/schema/main/table/sqlite_master">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://25ebdec2-5ba9-4790-a05d-957158c58115/schema/main/table/django_migrations">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app1.json" />
+    <entry file="das://25ebdec2-5ba9-4790-a05d-957158c58115/schema/main/table/auth_user_user_permissions">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://25ebdec2-5ba9-4790-a05d-957158c58115/schema/main/table/django_session">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://25ebdec2-5ba9-4790-a05d-957158c58115/schema/main/table/django_content_type">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://25ebdec2-5ba9-4790-a05d-957158c58115/schema/main/table/django_admin_log">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app1/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://25ebdec2-5ba9-4790-a05d-957158c58115/schema/main/table/auth_group_permissions">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://25ebdec2-5ba9-4790-a05d-957158c58115/schema/main/table/auth_user_groups">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://25ebdec2-5ba9-4790-a05d-957158c58115/schema/main/table/auth_user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://25ebdec2-5ba9-4790-a05d-957158c58115/schema/main/table/auth_permission">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://25ebdec2-5ba9-4790-a05d-957158c58115/schema/main/table/auth_group">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://25ebdec2-5ba9-4790-a05d-957158c58115/schema/main/table/app1_article">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apptupian.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helloDjong/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apptupian/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://25ebdec2-5ba9-4790-a05d-957158c58115/schema/main/table/apptupian_gyhuser">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apptupian/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

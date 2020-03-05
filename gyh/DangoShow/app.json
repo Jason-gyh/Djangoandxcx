@@ -1,0 +1,41 @@
+{
+  "pages": [
+    "pages/longin/longin",
+    "pages/index/index",
+    "pages/apps/apps",
+    "pages/logs/logs",
+    "pages/tup/tup",
+    "pages/zfb/zfb",
+    "pages/wx/wx",
+    "pages/dz/dz"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/longin/longin",
+        "text": "登录"
+      },
+      {
+      "pagePath": "pages/index/index",
+      "text": "首页"
+    },
+    {
+      "pagePath": "pages/apps/apps",
+      "text": "应用"
+    },
+    {
+      "pagePath": "pages/tup/tup",
+      "text": "图片"
+    }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
